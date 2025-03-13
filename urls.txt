@@ -1,1 +1,2 @@
 http://backend.course#niki22sh
+http://backend.course?name=%22Горовий%20Микита%22&github_name=niki22sh&group=%22ФЕП-21с%22&subgroup=%22Підгрупа%201%22
